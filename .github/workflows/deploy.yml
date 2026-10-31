@@ -2,7 +2,7 @@ name: Deploy website to GitHub Pages
 
 on:
   push:
-    branches: [arena/38c94c19-rafi-pet-store]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
